@@ -6,6 +6,11 @@ A command line pop it game in go
 - [x] dynamic board gen
 - [x] use ansi colors
 
+# todo
+
+- [ ] reset board
+- [ ] non ctrl-c exit 
+
 # install
 
 ```
