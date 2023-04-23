@@ -5,10 +5,7 @@ A command line pop it game in go
 
 - [x] dynamic board gen
 - [x] use ansi colors
-
-# todo
-
-- [ ] main menu
+- [x] main menu
 
 # requirements
 
