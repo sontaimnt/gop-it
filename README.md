@@ -11,6 +11,12 @@ A command line pop it game in go
 - [ ] reset board
 - [ ] non ctrl-c exit 
 
+# requirements
+
+- terminal having 16 colors 
+- go 1.20
+- posix shell(see ![#1](https://github.com/sontaimnt/gop-it/issues/1))
+
 # install
 
 ```
