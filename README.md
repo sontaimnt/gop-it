@@ -8,8 +8,7 @@ A command line pop it game in go
 
 # todo
 
-- [ ] reset board
-- [ ] non ctrl-c exit 
+- [ ] main menu
 
 # requirements
 
