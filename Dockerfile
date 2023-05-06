@@ -1,5 +1,6 @@
-FROM alpine:latest
-RUN apk add go git
+FROM ubuntu:latest
+RUN apt update
+RUN apt install golang git -y
 RUN git clone https://github.com/sontaimnt/gop-it
-RUN cd gop-it
+WORKDIR /gop-it
 RUN go build -v
